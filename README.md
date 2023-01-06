@@ -16,5 +16,5 @@
 
 ![1!](https://github.com/RomanKryvolapov/1.77_1.8_LCD_128x160_ST7735_ESP32/blob/master/Display.jpg "1")
 
-![4!](https://github.com/RomanKryvolapov/1.77_1.8_LCD_128x160_ST7735_ESP32/blob/master/ESP32-Pinout.png "4")
+![2!](https://github.com/RomanKryvolapov/1.3_LCD_IPS_240x240_ST7735_ESP32/blob/master/ESP32-Pinout.png "2")
 
