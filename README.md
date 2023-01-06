@@ -14,7 +14,7 @@
 <p>PIN_UART_RX = 16</p>
 <p>PIN_DISPLAY_BRIGHTNESS = 5, Can be used, if support</p>
 
-![1!](https://github.com/RomanKryvolapov/1.77_1.8_LCD_128x160_ST7735_ESP32/blob/master/Display.jpg "1")
+![1!](https://github.com/RomanKryvolapov/1.3_LCD_IPS_240x240_ST7735_ESP32/blob/master/Display.jpg "1")
 
 ![2!](https://github.com/RomanKryvolapov/1.3_LCD_IPS_240x240_ST7735_ESP32/blob/master/ESP32-Pinout.png "2")
 
